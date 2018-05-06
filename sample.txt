@@ -1,0 +1,2 @@
+Did you know that Markov chains are tremondously useful, yet incredibly annoying? Markov chains, when properly primed and prepared, can generate more or less plausible looking text.
+Unfortunately, this also makes them a bane of less advanced spam filters et al, since their text can not necessarily be distinguished from of texts written by actual humans.
